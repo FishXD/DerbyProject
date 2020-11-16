@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DemoAllTheCode/DemoAllTheCode.iml" filepath="$PROJECT_DIR$/../DemoAllTheCode/DemoAllTheCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DerbyProject.iml" filepath="$PROJECT_DIR$/DerbyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SimpleDBClients/SimpleDBClients.iml" filepath="$PROJECT_DIR$/../SimpleDBClients/SimpleDBClients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SimpleDBEngine/SimpleDBEngine.iml" filepath="$PROJECT_DIR$/../SimpleDBEngine/SimpleDBEngine.iml" />
+    </modules>
+  </component>
+</project>

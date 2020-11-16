@@ -1,0 +1,6 @@
+select sid, sname, gradyear, majorid from student;
+select did, dname from dept;
+select cid, title from deptid;
+select eid, studentid, sectionid, grade from enroll;
+select sectid, courseid, prof, yearoffered from section;
+select sname from student where majorid = 20;

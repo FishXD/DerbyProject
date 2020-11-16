@@ -1,0 +1,4 @@
+hello BufferedWriterTest
+select cid, title from deptid;hello BufferedWriterTest
+select cid, title from deptid;hello BufferedWriterTest
+select cid, title from deptid;

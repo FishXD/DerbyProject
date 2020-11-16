@@ -1,0 +1,14 @@
+Sun Nov 15 17:29:52 CST 2020 : Apache Derby 网络服务器 - 10.13.1.1 - (1765088) 已启动并准备接受端口 1527 上的连接
+----------------------------------------------------------------
+Sun Nov 15 17:34:19 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-cb3d-3537-000052ca336a 
+on database directory D:\CodeApps\ideaCodeRepositories\DerbyProject\studentdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/10939/Desktop/SimpleDB/DerBy/pacage/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=D:\CodeApps\ideaCodeRepositories\DerbyProject
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\CodeApps\ideaCodeRepositories\DerbyProject
+Database Class Loader started - derby.database.classpath=''

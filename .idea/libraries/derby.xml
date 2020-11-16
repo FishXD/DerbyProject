@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="derby">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/SimpleDB/DerBy/pacage/derby.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SimpleDB/DerBy/pacage/derbyclient.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SimpleDB/DerBy/pacage/derbynet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SimpleDB/DerBy/pacage/derbytools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

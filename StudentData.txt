@@ -1,0 +1,4 @@
+SId	SName	MajorId	GradYear
+10	sanling	10	2022
+11	alex	30	2022
+12	world	20	2022
