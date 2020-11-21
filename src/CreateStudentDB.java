@@ -7,7 +7,7 @@ import org.apache.derby.jdbc.ClientDriver;
 *        程序参数： start -h localhost
 *        工作目录： D:\CodeApps\ideaCodeRepositories\DerbyProject
  *
-*     @author bookAuthor*
+*     @author Edward Sciore
  *     @date  2020/11/4
 */
 public class CreateStudentDB {
